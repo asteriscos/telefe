@@ -1,0 +1,18 @@
+table {
+    margin: 0 auto;
+    border-collapse: separate;
+    /*border-spacing: 10px;*/
+}
+
+table.table.sopa {
+    width: auto;
+}
+
+table.table.sopa td {
+    line-height: 10px;
+    padding: 9px;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+}
