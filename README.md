@@ -3,6 +3,7 @@
 inicializar:
 
 $ npm install
+
 $ npm start
 
 url de inicio
